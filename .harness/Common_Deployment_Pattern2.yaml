@@ -6,8 +6,8 @@ pipeline:
   tags: {}
   stages:
     - stage:
-        name: K8s Deploy2
-        identifier: K8s_Deploy2
+        name: K8s Deploy3
+        identifier: K8s_Deploy3
         description: ""
         type: Deployment
         spec:
